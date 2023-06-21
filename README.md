@@ -29,7 +29,7 @@ cd temperature-converter-gui
 
 python index.py
 
-The GUI window will appear. Enter the temperature in Celsius, either by typing it or using the arrow keys. Press the "Convert" button or press the Enter key to perform the conversion. The converted temperature in Fahrenheit will be displayed.
+The GUI window will appear. Enter the temperature in Celsius, either by typing it or using the arrow keys. Press the "Convert" button or press the Enter key to perform the conversion. The converted temperature in Fahrenheit will be displayed.```
 
 ## Customization
 Feel free to customize the GUI layout, appearance, and behavior to suit your needs. You can modify the font, colors, window size, and other aspects of the GUI by editing the converter.py file.
